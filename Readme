@@ -1,0 +1,9 @@
+Actividades realizadas
+
+
+-Identificación de las clases necesarias (Dice, Calculator, DiceGame, y TestDiceGame) para simular el juego de dados.
+-Definición de los atributos y métodos en cada clase para cumplir con los requisitos de la actividad.
+-Modelado de las relaciones entre las clases en un diagrama UML utilizando Visual Paradigm.
+-Generación del código de las clases a partir del diagrama UML y organización del proyecto en IntelliJ IDEA.
+-Implementación de una clase de prueba unitaria (TestDiceGame) para validar el funcionamiento del juego.
+-Creación del archivo .vpp en Visual Paradigm y guardado de una imagen del diagrama en la carpeta images del repositorio.
